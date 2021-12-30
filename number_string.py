@@ -10,3 +10,15 @@ a = 7%3
 s = "Hell\"o"
 print(s)
 b = "Hello" + "World"   
+
+    #換行
+m = "Hello\nWorld"
+
+    #多行
+E = """HELLO
+WORLD
+"""
+
+#找字串位置
+WORD = "Hello"
+print(WORD[1:4])
